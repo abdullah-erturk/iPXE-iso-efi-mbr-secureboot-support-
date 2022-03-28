@@ -23,6 +23,7 @@ SecureBoot.cer dosyası iso dosyası içinde görünmez. Bu dosya, efi boot sekt
 
 Önyükleme esnasında bu dosya görünür olacaktır.
 
+ISO dosyasını Grub2FM, Ventoy, AIO Boot tarzı multiboot yöneticileriyle ön yükleyebilirsiniz.
 
 	2- English Explanation
   
@@ -42,5 +43,5 @@ After the SecureBoot.cer file is introduced to the BIOS, you do not need to do t
 The SecureBoot.cer file does not appear in the iso file. This file is embedded in the efi boot sector file.
 
 This file will be visible during boot.
-  
 
+You can boot the ISO file with Grub2FM, Ventoy, AIO Boot style multiboot managers.
