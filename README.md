@@ -44,4 +44,4 @@ The SecureBoot.cer file does not appear in the iso file. This file is embedded i
 
 This file will be visible during boot.
 
-You can boot the ISO file with Grub2FM, Ventoy, AIO Boot style multiboot managers.
+You can boot the ISO file with Grub2FM, Ventoy, AIO Boot etc. multiboot managers.
