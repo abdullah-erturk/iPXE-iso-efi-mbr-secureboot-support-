@@ -9,9 +9,9 @@ https://github.com/ipxe/ipxe
 iPXE son sürüm secureboot uyumlu ISO dosyası
 
 Desteklediği platformalar:
-UEFI x86 (secureboot uyumlu)
-UEFI x64 (secureboot uyumlu)
-BIOS-MBR
+- UEFI x86 (secureboot uyumlu)
+- UEFI x64 (secureboot uyumlu)
+- BIOS-MBR
 
 Bu iso dosyası hem MBR hem de UEFI modunda çalışmaktadır. 
 
@@ -29,9 +29,9 @@ SecureBoot.cer dosyası iso dosyası içinde görünmez. Bu dosya, efi boot sekt
 iPXE latest version secureboot compatible ISO file
 
 Supported platforms:
-UEFI x86 (secureboot compatible)
-UEFI x64 (secureboot compatible)
-BIOS-MBR
+- UEFI x86 (secureboot compatible)
+- UEFI x64 (secureboot compatible)
+- BIOS-MBR
 
 This iso file works in both MBR and UEFI mode.
 
