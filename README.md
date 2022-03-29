@@ -13,7 +13,9 @@ Desteklediği platformalar:
 - UEFI x64 (secureboot uyumlu)
 - BIOS-MBR
 
-Bu iso dosyası hem MBR hem de UEFI modunda çalışmaktadır. 
+Bu ISO dosyası ile mevcut iPXE sunucunuza erişebilirsiniz.
+
+ISO dosyası hem MBR hem de UEFI modunda çalışmaktadır. 
 
 UEFI modunda güvenli önyükleme açık iken de çalışır ancak öncelikle SecureBoot.cer dosyasını BIOS'a tanıtmalısınız.
 
@@ -33,6 +35,8 @@ Supported platforms:
 - UEFI x86 (secureboot support)
 - UEFI x64 (secureboot support)
 - BIOS-MBR
+
+With this ISO file you can access your existing iPXE server.
 
 This iso file works in both MBR and UEFI mode.
 
