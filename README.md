@@ -4,7 +4,7 @@ credit:
 
 https://github.com/ipxe/ipxe
 
-	1- Türkçe Açıklama
+	- Türkçe Açıklama
 
 iPXE son sürüm secureboot uyumlu ISO dosyası
 
@@ -27,7 +27,7 @@ SecureBoot.cer dosyası iso dosyası içinde görünmez. Bu dosya, efi boot sekt
 
 ISO dosyasını Grub2FM, Ventoy, AIO Boot tarzı multiboot yöneticileriyle ön yükleyebilirsiniz.
 
-	2- English Explanation
+	- English Explanation
   
 iPXE latest version secureboot support ISO file
 
