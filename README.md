@@ -30,8 +30,8 @@ ISO dosyasını Grub2FM, Ventoy, AIO Boot tarzı multiboot yöneticileriyle ön 
 iPXE latest version secureboot compatible ISO file
 
 Supported platforms:
-- UEFI x86 (secureboot compatible)
-- UEFI x64 (secureboot compatible)
+- UEFI x86 (secureboot support)
+- UEFI x64 (secureboot support)
 - BIOS-MBR
 
 This iso file works in both MBR and UEFI mode.
