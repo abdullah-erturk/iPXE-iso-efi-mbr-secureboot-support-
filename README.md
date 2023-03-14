@@ -8,7 +8,7 @@ https://github.com/ipxe/ipxe
 
 iPXE son sürüm secureboot uyumlu ISO dosyası
 
-Desteklediği platformalar:
+Desteklediği platformlar:
 - UEFI x86 (secureboot uyumlu)
 - UEFI x64 (secureboot uyumlu)
 - BIOS-MBR
